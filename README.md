@@ -1,18 +1,24 @@
 <div align="center">
-<div align="center">
 
   <!-- Canlı Discord Durum Kartı (Lanyard API) -->
-  <a href="https://discord.com/users/1333819555264593992" target="_blank">
-    <img src="https://lanyard.cnrad.dev/api/1333819555264593992?theme=dark&bg=0D1117&animated=true&hideDiscrim=true" alt="Discord Presence" />
+  <a href="https://discord.com/users/1496554318789214349" target="_blank">
+    <img src="https://lanyard.cnrad.dev/api/1496554318789214349?theme=dark&bg=0D1117&animated=true&hideDiscrim=true" alt="Discord Presence" />
   </a>
+
+  <br/><br/>
+
+  <!-- Typing SVG -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=EF0F0F&width=500&lines=Software+%26+Network+Engineer;Full+Stack+Developer;AtlasCode+Founder;Building+Modern+Web+Systems" alt="Typing SVG" />
 
+  <br/><br/>
+
+  <!-- Profil Rozetleri -->
   <p align="center">
     <a href="https://github.com/constdevv">
       <img src="https://komarev.com/ghpvc/?username=constdevv&color=ef0f0f&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
     </a>
-    <a href="https://discord.gg/atlascode">
-      <img src="https://img.shields.io/discord/1496554318789214349?color=5865F2&style=for-the-badge&logo=discord&logoColor=white&label=DISCORD" alt="Discord Status" />
+    <a href="https://discord.gg/atlascode" target="_blank">
+      <img src="https://img.shields.io/badge/Discord-AtlasCode-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Community" />
     </a>
   </p>
 
