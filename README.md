@@ -1,97 +1,119 @@
 <div align="center">
 
-  <!-- Canlı Discord Durum Kartı (Lanyard API) -->
-  <a href="https://discord.com/users/1496554318789214349" target="_blank">
-    <img src="https://lanyard.cnrad.dev/api/1496554318789214349?theme=dark&bg=0D1117&animated=true&hideDiscrim=true" alt="Discord Presence" />
-  </a>
-
-  <br/><br/>
-
-  <!-- Typing SVG -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=EF0F0F&width=500&lines=Software+%26+Network+Engineer;Full+Stack+Developer;AtlasCode+Founder;Building+Modern+Web+Systems" alt="Typing SVG" />
-
-  <br/><br/>
-
-  <!-- Profil Rozetleri -->
-  <p align="center">
-    <a href="https://github.com/constdevv">
-      <img src="https://komarev.com/ghpvc/?username=constdevv&color=ef0f0f&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-    </a>
-    <a href="https://discord.gg/atlascode" target="_blank">
-      <img src="https://img.shields.io/badge/Discord-AtlasCode-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Community" />
-    </a>
-  </p>
+## `About Me`
 
 </div>
 
----
-
-## 👨‍💻 About Me
-
-<table align="center" width="100%">
-  <tr>
-    <td width="60%" valign="top">
-      <ul>
-        <li>🚀 <b>18 y/o Full Stack Developer</b> & Network Engineer</li>
-        <li>🌍 Based in <b>Turkey, İstanbul</b> 📍</li>
-        <li>🧠 Building scalable backend systems & modern web applications</li>
-        <li>⚙️ Founder of <b><a href="https://discord.gg/atlascode">AtlasCode</a></b> ecosystem</li>
-        <li>📦 Currently working on <code>yawn-framework</code></li>
-      </ul>
-    </td>
-    <td width="40%" valign="top" align="center">
-      <br/>
-      📬 <b>Get in Touch</b><br/><br/>
-      <a href="mailto:contactatlascode@gmail.com">
-        <img src="https://img.shields.io/badge/Email-contactatlascode%40gmail.com-EF0F0F?style=flat-square&logo=gmail&logoColor=white" />
-      </a><br/><br/>
-      <a href="https://discord.gg/atlascode">
-        <img src="https://img.shields.io/badge/Community-AtlasCode%20Discord-5865F2?style=flat-square&logo=discord&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-</table>
+```ts
+const me = {
+  name: "Umut Altıntaş",
+  role: "Software Developer",
+  age: 18,
+  location: "Antalya, Türkiye",
+  interests: ["Software Development", "Football"],
+  currentProject: "Atlascode"
+};
+```
 
 ---
-
-## 🧰 Tech Stack
 
 <div align="center">
 
-| Category | Technologies & Tools |
-| :--- | :--- |
-| **Languages & Core** | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="30" height="30" alt="JS"/> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="30" height="30" alt="TS"/> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="30" height="30" alt="Python"/> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="30" height="30" alt="Java"/> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="30" height="30" alt="PHP"/> |
-| **Frontend & UI** | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="30" height="30" alt="HTML"/> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="30" height="30" alt="React"/> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="30" height="30" alt="Next"/> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="30" height="30" alt="Vue"/> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="30" height="30" alt="Tailwind"/> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="30" height="30" alt="Bootstrap"/> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="30" height="30" alt="Vite"/> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/framer-colored.svg" width="30" height="30" alt="Framer"/> |
-| **Backend & Databases** | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="30" height="30" alt="Node"/> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="30" height="30" alt="Express"/> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="30" height="30" alt="FastAPI"/> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="30" height="30" alt="MySQL"/> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="30" height="30" alt="Postgres"/> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="30" height="30" alt="Firebase"/> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="30" height="30" alt="Supabase"/> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="30" height="30" alt="WP"/> |
-| **DevOps & Tools** | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="30" height="30" alt="Git"/> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="30" height="30" alt="VSCode"/> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext-colored.svg" width="30" height="30" alt="Sublime"/> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="30" height="30" alt="GCP"/> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="30" height="30" alt="Figma"/> |
+## Languages`
+
+<a href="https://www.typescriptlang.org/">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white&labelColor=111827">
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=111827&labelColor=111827">
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&labelColor=111827">
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white&labelColor=111827">
+</a>
+
+## `Frontend`
+
+<a href="https://react.dev/">
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=111827&labelColor=111827">
+</a>
+<a href="https://vite.dev/">
+  <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=vite&logoColor=white&labelColor=111827">
+</a>
+<a href="https://tailwindcss.com/">
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=111827">
+</a>
+<a href="https://www.framer.com/motion/">
+  <img alt="Framer Motion" src="https://img.shields.io/badge/Framer_Motion-0055FF.svg?style=for-the-badge&logo=framer&logoColor=white&labelColor=111827">
+</a>
+<a href="https://threejs.org/">
+  <img alt="Three.js" src="https://img.shields.io/badge/Three.js-000000.svg?style=for-the-badge&logo=threedotjs&logoColor=white&labelColor=111827">
+</a>
+
+## `Backend Platform`
+
+<a href="https://nodejs.org/">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=111827">
+</a>
+<a href="https://fastify.dev/">
+  <img alt="Fastify" src="https://img.shields.io/badge/Fastify-000000.svg?style=for-the-badge&logo=fastify&logoColor=white&labelColor=111827">
+</a>
+<a href="https://discord.js.org/">
+  <img alt="Discord.js" src="https://img.shields.io/badge/Discord.js-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white&labelColor=111827">
+</a>
+<a href="https://graphql.org/">
+  <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098.svg?style=for-the-badge&logo=graphql&logoColor=white&labelColor=111827">
+</a>
+<a href="https://socket.io/">
+  <img alt="Socket.IO" src="https://img.shields.io/badge/Socket.IO-010101.svg?style=for-the-badge&logo=socketdotio&logoColor=white&labelColor=111827">
+</a>
+
+## `Database Infrastructure`
+
+<a href="https://www.mongodb.com/">
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=111827">
+</a>
+<a href="https://redis.io/">
+  <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white&labelColor=111827">
+</a>
+<a href="https://www.docker.com/">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white&labelColor=111827">
+</a>
+
+## `Tools Testing `
+
+<a href="https://git-scm.com/">
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white&labelColor=111827">
+</a>
+<a href="https://www.npmjs.com/">
+  <img alt="NPM" src="https://img.shields.io/badge/NPM-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white&labelColor=111827">
+</a>
+<a href="https://jestjs.io/">
+  <img alt="Jest" src="https://img.shields.io/badge/Jest-C21325.svg?style=for-the-badge&logo=jest&logoColor=white&labelColor=111827">
+</a>
+<a href="https://vitest.dev/">
+  <img alt="Vitest" src="https://img.shields.io/badge/Vitest-6E9F18.svg?style=for-the-badge&logo=vitest&logoColor=white&labelColor=111827">
+</a>
+<a href="https://github.com/">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white&labelColor=111827">
+</a>
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=constdevv&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=EF0F0F&icon_color=EF0F0F" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=constdevv&theme=radical&hide_border=true&background=0D1117&ring=EF0F0F&fire=EF0F0F&currStreakLabel=EF0F0F" width="48%" alt="GitHub Streak" />
-</p>
+## `Let's Connect`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=constdevv&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=EF0F0F" width="48%" alt="Top Languages" />
-</p>
+<a href="https://discord.gg/atlascode">
+  <img alt="Discord" src="https://img.shields.io/badge/Discord-.gg%2Fatlascode-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white&labelColor=111827">
+</a>
 
----
+<br><br>
 
-## 🌐 Connect with Me
+<img alt="Profile Views" src="https://komarev.com/ghpvc/?username=manyZXZ&color=0084ff&style=for-the-badge&label=Views">
 
-<p align="center">
-  <a href="https://github.com/constdevv" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://linktr.ee/mave" target="_blank">
-    <img src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white" />
-  </a>
-  <a href="https://discord.com/users/1496554318789214349" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-</p>
+</div>
